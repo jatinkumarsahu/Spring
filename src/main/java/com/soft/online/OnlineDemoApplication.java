@@ -10,6 +10,6 @@ public class OnlineDemoApplication {
 		SpringApplication.run(OnlineDemoApplication.class, args);
 	}
 
-}
+} 
 
  
